@@ -1,0 +1,10 @@
+Monster 821, Ducati, Metal Grey,30, 5500
+KTM Rc 200, KTM, Orange Black,25, 5300
+Brutale 800, Agusta, White Red,39, 21000
+Apache RTR 160, TVS, Torino Red,38, 4200
+MT 15 V2, Yamaha, Blue Black,53, 2000
+Bajaj Pulsar, Bajaj, Midnight Black,50, 1500
+V-Storm SX, Suzuki, Forest Green,67, 4500
+Revolt RV 400, Revolt, Race Yellow,56, 3000
+F 900 XR, BMW, Turquoise,80, 3500
+Honda Shine 125, Honda, Charcoal Grey,100, 1000
